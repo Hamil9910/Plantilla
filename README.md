@@ -18,9 +18,8 @@ npm run build
 ## App Info
 
 ### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+ 
+ HAMILTON PEREZ
 
 ### Version
 
